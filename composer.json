@@ -1,11 +1,7 @@
 {
     "name": "mlaxwong/mlax",
-    "description": "Mlax Framework.",
-    "type": "project",
-    "require": {
-        "php": ">=5.4",
-        "phpunit/phpunit": "^6.1"
-    },
+    "description": "Mlax Framework",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -13,9 +9,10 @@
             "email": "mlaxwong@gmail.com"
         }
     ],
+    "require": {},
     "autoload": {
         "psr-4": {
-            "mlax\\": "framework/"
+            "mlax\\": ""
         }
     }
 }
