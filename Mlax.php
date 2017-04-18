@@ -6,6 +6,4 @@ class Mlax
 		echo 'Mlax Framework';
 	}
 }
-
-spl_autoload_register(['Mlax', 'autoload'], true, true);
 ?>
