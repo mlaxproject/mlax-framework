@@ -1,2 +1,2 @@
 # mlax-framework
-Mlax Framework
+Mlax Framework Project
